@@ -25,7 +25,7 @@ const truck1 = new Truck(
   2021, 
   5000,
   120,
-  10000
+  10000,
   truck1Wheels
 );
 
