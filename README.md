@@ -31,3 +31,6 @@ To run tests, use the following command: npm test (Make sure ALL tests pass befo
 
 ## Questions
 For any questions, please contact me at carmenwh33l3r@gmail.com. You can also find more of my work at [GitHub](https://github.com/OutsideofEmit).
+
+## Notes
+[Vehicle Builder Walkthrough Video](https://drive.google.com/file/d/1cS7hHHn9V_kcMHOKSx-I2CoR3nMPHv-3/view?usp=drive_link)
