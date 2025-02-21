@@ -17,6 +17,13 @@ This project involves a dynamic application where users can either create a new 
 ## Installation
 Clone the the repository: git clone git@github.com:OutsideofemiT/Vehicle-Builder.git
 
+## Video of Deployed Vehicle Builder
+
+
+
+https://github.com/user-attachments/assets/bd21ac58-73a8-44d0-8046-0377e62bc9e1
+
+
 ## Usage
 To use the Vehicle Builder, run the following command in your terminal: npm start
 
